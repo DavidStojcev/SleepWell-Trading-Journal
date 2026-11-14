@@ -57,7 +57,7 @@ Some of the basic themes that come out of the box.
       <br><sub><b>Ocean Night</b> · Reports</sub>
     </td>
     <td width="50%" align="center">
-      <img src="docs/assets/free-cloud.jpg" alt="Cloud theme, Playbook page">
+      <img src="docs/assets/free-cloud.png" alt="Cloud theme, Playbook page">
       <br><sub><b>Cloud</b> · Playbook</sub>
     </td>
   </tr>
