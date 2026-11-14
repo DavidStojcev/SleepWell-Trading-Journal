@@ -8,11 +8,11 @@ A private, 100% client-side trading journal and execution analytics suite.
 
 <br>
 
-<a href="https://YOUR-SITE.workers.dev">
+<a href="https://sleepwell.journal-apps.workers.dev">
   <img src="docs/assets/launch-button.svg" alt="Open live demo" width="300">
 </a>
 
-<sub>https://YOUR-SITE.workers.dev</sub>
+<sub>https://sleepwell.journal-apps.workers.dev/</sub>
 
 ![Status](https://img.shields.io/badge/🚧_Status-Work_In_Progress-f59e0b?style=flat-square)
 ![Privacy](https://img.shields.io/badge/Data-100%25_Local-0ea5e9?style=flat-square)
@@ -24,7 +24,7 @@ A private, 100% client-side trading journal and execution analytics suite.
 > ### 🚧 WORK IN PROGRESS 🚧
 > SleepWell is under active development. Features, analytics, and UI change rapidly. Explore, test, and send feedback while it takes shape.
 >
-> This repository is a showcase only. The source code is private.
+> This repository is a showcase only.
 
 ---
 
@@ -133,3 +133,13 @@ Everything runs in your browser, so **your data never leaves your device.**
 🚧 Still building. Questions or feedback? Open an issue. 🚧
 
 </div>
+
+---
+
+---
+
+<p align="center"><sub><b>Disclaimer:</b> SleepWell Trading Journal is a journaling and analytics tool, not financial advice. Nothing in it is a recommendation to buy or sell any security. Trading involves risk of loss. The software is provided "as is" without warranty, and all data is stored locally in your browser, so keep your own backups.</sub></p>
+
+<p align="center"><sub>All broker and platform names are trademarks of their respective owners. This project is not affiliated with or endorsed by them.</sub></p>
+
+<p align="center"><sub>© 2026 SleepWell. All rights reserved.</sub></p>
