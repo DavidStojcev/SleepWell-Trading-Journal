@@ -25,37 +25,37 @@ A private, 100% client-side trading journal and execution analytics suite.
 
 ---
 
-## Why SleepWell
+## <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%233b82f6" width="24" height="24" align="top"> Why SleepWell
 
-**Private by design.** Trades, notes, and P&L live in your browser's IndexedDB. Nothing is sent to any server, and the built-in Privacy Audit proves it.
+<img src="https://api.iconify.design/lucide/lock.svg?color=%233b82f6" width="20" height="20" align="top"> **Private by design.** Trades, notes, and P&L live in your browser's IndexedDB. Nothing is sent to any server, and the built-in Privacy Audit proves it.
 
-**Psychology meets metrics.** Pre- and post-market journaling, a Strategy Playbook, and Ghost Mode sit next to the numbers, so you can find and fix behavioural leaks.
+<img src="https://api.iconify.design/lucide/brain.svg?color=%233b82f6" width="20" height="20" align="top"> **Psychology meets metrics.** Pre- and post-market journaling, a Strategy Playbook, and Ghost Mode sit next to the numbers, so you can find and fix behavioural leaks.
 
-**Risk-adjusted analytics.** R-multiples, drawdown, expectancy, profit factor, and time-of-day edge, with no spreadsheet formulas.
+<img src="https://api.iconify.design/lucide/trending-up.svg?color=%233b82f6" width="20" height="20" align="top"> **Risk-adjusted analytics.** R-multiples, drawdown, expectancy, profit factor, and time-of-day edge, with no spreadsheet formulas.
 
 ---
 
-## Features
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233b82f6" width="24" height="24" align="top"> Features
 
 | | |
 | :--- | :--- |
-| **Portfolio Dashboard** | Equity curve, win rate, profit factor, net P&L, drawdown, and expectancy over custom time windows |
-| **Ghost Mode** | Compares your real equity curve with a clean one that removes rule-breaking trades, showing what indiscipline cost you |
-| **Strategy Playbook** | Define setups with rule checklists and pin your best trades as benchmarks |
-| **Local Insights** | On-device engine that flags tilt, time-of-day leaks, and position-size skew |
-| **Journal Health Radar** | Five-axis score for logging, prep, review, plan adherence, and R:R adherence |
-| **Global Filters** | Slice everything by date, symbol, setup, tag, side, and account |
-| **Heatmap Calendar** | Daily P&L with session notes and trade details |
-| **Risk Engine** | FIFO matching, multi-fill pairing, planned vs. realized R:R, fees and slippage |
-| **Theme Engine** | Ocean Night, Obsidian OLED, Evergreen, Starlight Festival, Ocean Breeze, Paper, Cloud, Pelican Town |
-| **Markdown Journal** | Pre- and post-market templates with mindset prompts and execution audits |
-| **Trade Cards** | Paste screenshots from the clipboard and export shareable trade cards |
-| **CSV / Excel Import** | Presets for IBKR, Schwab, Thinkorswim, TradingView, MetaTrader, Robinhood, TradeStation |
-| **Backups** | One-click JSON export and restore |
+| <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%233b82f6" width="18" height="18" align="top"> **Portfolio Dashboard** | Equity curve, win rate, profit factor, net P&L, drawdown, and expectancy over custom time windows |
+| <img src="https://api.iconify.design/lucide/ghost.svg?color=%233b82f6" width="18" height="18" align="top"> **Ghost Mode** | Compares your real equity curve with a clean one that removes rule-breaking trades, showing what indiscipline cost you |
+| <img src="https://api.iconify.design/lucide/book-open.svg?color=%233b82f6" width="18" height="18" align="top"> **Strategy Playbook** | Define setups with rule checklists and pin your best trades as benchmarks |
+| <img src="https://api.iconify.design/lucide/brain.svg?color=%233b82f6" width="18" height="18" align="top"> **Local Insights** | On-device engine that flags tilt, time-of-day leaks, and position-size skew |
+| <img src="https://api.iconify.design/lucide/radar.svg?color=%233b82f6" width="18" height="18" align="top"> **Journal Health Radar** | Five-axis score for logging, prep, review, plan adherence, and R:R adherence |
+| <img src="https://api.iconify.design/lucide/list-filter.svg?color=%233b82f6" width="18" height="18" align="top"> **Global Filters** | Slice everything by date, symbol, setup, tag, side, and account |
+| <img src="https://api.iconify.design/lucide/calendar-days.svg?color=%233b82f6" width="18" height="18" align="top"> **Heatmap Calendar** | Daily P&L with session notes and trade details |
+| <img src="https://api.iconify.design/lucide/scale.svg?color=%233b82f6" width="18" height="18" align="top"> **Risk Engine** | FIFO matching, multi-fill pairing, planned vs. realized R:R, fees and slippage |
+| <img src="https://api.iconify.design/lucide/palette.svg?color=%233b82f6" width="18" height="18" align="top"> **Theme Engine** | Ocean Night, Obsidian OLED, Evergreen, Starlight Festival, Ocean Breeze, Paper, Cloud, Pelican Town |
+| <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%233b82f6" width="18" height="18" align="top"> **Markdown Journal** | Pre- and post-market templates with mindset prompts and execution audits |
+| <img src="https://api.iconify.design/lucide/camera.svg?color=%233b82f6" width="18" height="18" align="top"> **Trade Cards** | Paste screenshots from the clipboard and export shareable trade cards |
+| <img src="https://api.iconify.design/lucide/file-spreadsheet.svg?color=%233b82f6" width="18" height="18" align="top"> **CSV / Excel Import** | Presets for IBKR, Schwab, Thinkorswim, TradingView, MetaTrader, Robinhood, TradeStation |
+| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%233b82f6" width="18" height="18" align="top"> **Backups & Privacy Audit** | One-click JSON export and restore, plus proof of zero outbound traffic |
 
 ---
 
-## Workflow
+## <img src="https://api.iconify.design/lucide/workflow.svg?color=%233b82f6" width="24" height="24" align="top"> Workflow
 
 1. **Playbook:** define setups and pre-trade rules
 2. **Pre-market:** review conditions and complete the mindset checklist
@@ -65,7 +65,7 @@ A private, 100% client-side trading journal and execution analytics suite.
 
 ---
 
-## Built With
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%233b82f6" width="24" height="24" align="top"> Built With
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -78,7 +78,7 @@ Charts with Recharts, storage in IndexedDB, imports via PapaParse and SheetJS.
 
 ---
 
-## Data & Backups
+## <img src="https://api.iconify.design/lucide/hard-drive.svg?color=%233b82f6" width="24" height="24" align="top"> Data & Backups
 
 Everything runs in your browser, so **your data never leaves your device.**
 
