@@ -1,86 +1,95 @@
-# 📊 SleepWell Trading Journal
+<div align="center">
 
-> **Trade with clarity, manage risk systematically, and sleep like a baby at night.**
->
-> A private, 100% client-side trading journal and execution analytics suite for disciplined equity, futures, forex, and crypto traders.
+# SleepWell Trading Journal
 
-### 🔗 [**Live Demo → https://sleepwell.journal-apps.workers.dev/**](https://sleepwell.journal-apps.workers.dev/)
+**Trade with clarity. Manage risk systematically. Sleep like a baby.**
+
+A private, 100% client-side trading journal and execution analytics suite.
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2ea44f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://YOUR-SITE.workers.dev)
+
+![Status](https://img.shields.io/badge/Status-In_Development-f59e0b?style=flat-square)
+![Privacy](https://img.shields.io/badge/Data-100%25_Local-0ea5e9?style=flat-square)
+![Source](https://img.shields.io/badge/Source-Private-6b7280?style=flat-square)
+
+<br>
+
+![Dashboard](docs/assets/dashboard.jpg)
+
+</div>
 
 > [!NOTE]
-> 🚧 **Work in progress.** Features and UI are evolving quickly.
-> 🔒 **Source code is private.** This repository is a showcase only: screenshots, feature overview, and the live link.
-
-![SleepWell Trading Journal Dashboard](docs/assets/dashboard.jpg)
+> This repository is a showcase only. The source code is private. Try the app through the live demo above.
 
 ---
 
-## 💡 Why SleepWell?
+## Why SleepWell
 
-1. **100% data privacy (zero backend)**: Trades, notes, and P&L live in your browser's **IndexedDB**. Nothing is sent to any server. Verify it anytime with the built-in **Privacy Audit**.
-2. **Psychology meets metrics**: Quantitative stats are paired with pre/post-market journaling, a **Strategy Playbook**, and **Ghost Mode** to find and fix behavioural leaks.
-3. **Risk-adjusted analytics**: R-multiples, drawdown, expectancy, profit factor, and time-of-day edge, with no spreadsheet formulas.
+**Private by design.** Trades, notes, and P&L live in your browser's IndexedDB. Nothing is sent to any server, and the built-in Privacy Audit proves it.
+
+**Psychology meets metrics.** Pre- and post-market journaling, a Strategy Playbook, and Ghost Mode sit next to the numbers, so you can find and fix behavioural leaks.
+
+**Risk-adjusted analytics.** R-multiples, drawdown, expectancy, profit factor, and time-of-day edge, with no spreadsheet formulas.
 
 ---
 
-## ✨ Key Features
+## Features
 
-| Feature | Description |
+| | |
 | :--- | :--- |
-| **📈 Portfolio Dashboard** | Equity curve, win rate, profit factor, net P&L, drawdown, and expectancy over custom time windows. |
-| **👻 Ghost Mode** | Overlays your real equity curve with a "clean" curve that removes rule-breaking trades, showing what indiscipline cost you. |
-| **📘 Strategy Playbook** | Define setups with rule checklists and pin your best trades as benchmarks. |
-| **🧠 Local Insights** | On-device engine that flags tilt, time-of-day leaks, and position-size skew. No cloud calls. |
-| **🕸️ Journal Health Radar** | 5-axis score for logging completeness, prep, review, plan adherence, and R:R adherence. |
-| **🔍 Global Filter Bar** | Slice everything by date, symbol, setup, tag, side, and account. |
-| **📅 Heatmap Calendar** | Daily P&L with session notes and trade details. |
-| **⚖️ Risk & Execution Engine** | FIFO matching, multi-fill pairing, planned vs. realized R:R, fees and slippage. |
-| **🎨 Theme Engine** | Dark and light themes: Ocean Night, Obsidian OLED, Evergreen, Starlight Festival, Ocean Breeze, Paper, Cloud, Pelican Town. |
-| **📝 Markdown Journal** | Pre- and post-market templates with mindset prompts and execution audits. |
-| **📸 Trade Cards** | Paste screenshots from the clipboard and export shareable trade cards. |
-| **📥 CSV / Excel Import** | Presets for IBKR, Schwab, Thinkorswim, TradingView, MetaTrader, Robinhood, TradeStation, and generic files. |
-| **🛡️ Privacy Audit & Backups** | Proof of zero outbound traffic, plus one-click JSON backup and restore. |
+| **Portfolio Dashboard** | Equity curve, win rate, profit factor, net P&L, drawdown, and expectancy over custom time windows |
+| **Ghost Mode** | Compares your real equity curve with a clean one that removes rule-breaking trades, showing what indiscipline cost you |
+| **Strategy Playbook** | Define setups with rule checklists and pin your best trades as benchmarks |
+| **Local Insights** | On-device engine that flags tilt, time-of-day leaks, and position-size skew |
+| **Journal Health Radar** | Five-axis score for logging, prep, review, plan adherence, and R:R adherence |
+| **Global Filters** | Slice everything by date, symbol, setup, tag, side, and account |
+| **Heatmap Calendar** | Daily P&L with session notes and trade details |
+| **Risk Engine** | FIFO matching, multi-fill pairing, planned vs. realized R:R, fees and slippage |
+| **Theme Engine** | Ocean Night, Obsidian OLED, Evergreen, Starlight Festival, Ocean Breeze, Paper, Cloud, Pelican Town |
+| **Markdown Journal** | Pre- and post-market templates with mindset prompts and execution audits |
+| **Trade Cards** | Paste screenshots from the clipboard and export shareable trade cards |
+| **CSV / Excel Import** | Presets for IBKR, Schwab, Thinkorswim, TradingView, MetaTrader, Robinhood, TradeStation |
+| **Backups** | One-click JSON export and restore |
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
-```
-[1. Playbook] ─► [2. Pre-Market Prep] ─► [3. Log / Import Trades]
-                                                   │
-[5. Insights & Ghost Mode] ◄─ [4. Post-Market Review] ◄┘
-```
-
-1. **Playbook**: define setups and pre-trade rules.
-2. **Pre-market**: review conditions and complete the mindset checklist.
-3. **Log trades**: manual entry with planned stop/target, or bulk import from your broker.
-4. **Review**: tag setups and mistakes, check R-multiples, complete the post-market debrief.
-5. **Analyze**: use Ghost Mode, Local Insights, and the Health Radar to find your edge and your leaks.
+1. **Playbook:** define setups and pre-trade rules
+2. **Pre-market:** review conditions and complete the mindset checklist
+3. **Log trades:** manual entry with planned stop and target, or bulk import
+4. **Review:** tag setups and mistakes, check R-multiples, write the debrief
+5. **Analyze:** use Ghost Mode, Local Insights, and the Health Radar to find your edge and your leaks
 
 ---
 
-## 🛠️ Tech Stack
+## Built With
 
-- **UI**: React 19 + Vite
-- **Routing**: React Router v7
-- **Charts**: Recharts
-- **Storage**: Client-side IndexedDB (no backend)
-- **Parsing**: PapaParse (CSV), SheetJS (Excel)
-- **Images**: html-to-image
-- **Testing**: Vitest (170+ tests) and Playwright (E2E)
-- **Hosting**: Cloudflare (free tier), auto-deployed from a private GitHub repository
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router_7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
----
-
-## 🔒 Data Privacy & Backups
-
-Because everything runs in your browser's IndexedDB, **your data never leaves your device**.
-
-- **Privacy Audit**: Settings → Privacy Audit confirms no external requests.
-- **Backups**: use **Export backup** regularly. Clearing site data can erase IndexedDB.
-- **Moving devices**: export a backup, then use **Import trades → Restore Backup** on the new device.
+Charts with Recharts, storage in IndexedDB, imports via PapaParse and SheetJS.
 
 ---
 
-## 📬 Contact
+## Data & Backups
 
-Questions or feedback? Open an issue on this repository.
+Everything runs in your browser, so **your data never leaves your device.**
+
+- **Privacy Audit:** Settings → Privacy Audit confirms no external requests
+- **Backups:** use Export backup regularly, because clearing site data erases IndexedDB
+- **Moving devices:** export a backup, then use Import trades → Restore Backup on the new device
+
+---
+
+<div align="center">
+
+Questions or feedback? Open an issue.
+
+</div>
